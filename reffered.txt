@@ -1,0 +1,15 @@
+https://github.com/arthur-aurangabad/powerbi-viz-test01
+
+https://cptechweb.teldevice.co.jp/hc/ja/articles/4416789873689--Power-BI%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E8%A1%A8%E7%8F%BE%E5%8A%9B%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B3%E3%83%84-PowerBI%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E4%BD%9C%E6%88%90-2021%E5%B9%B412%E6%9C%88-
+
+
+https://github.com/orgs/microsoft/repositories?q=powerbi-visual+sample&type=all&language=&sort=
+
+https://learn.microsoft.com/en-us/power-bi/developer/visuals/custom-visual-develop-tutorial-format-options
+https://learn.microsoft.com/ja-jp/power-bi/developer/visuals/visuals-how-to-debug?tabs=Edge
+
+https://learn.microsoft.com/en-us/power-bi/developer/visuals/develop-circle-card#troubleshooting
+
+https://qiita.com/kenakamu/items/76c4169657122aa7878e
+
+https://learn.microsoft.com/ja-jp/power-bi/developer/visuals/package-visual
